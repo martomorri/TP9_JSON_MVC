@@ -1,0 +1,128 @@
+{
+    "Reseña": [
+        {
+            "IdRestaurante": 1,
+            "Reseñas": [
+                {
+                    "IdReseña": 1,
+                    "NombreUsuario": "Diego Martinoli",
+                    "Valoracion": 4,
+                    "CantLikes": 1,
+                    "Descripcion": "Buena experiencia. Agregaría tarjeta de crédito. La comida siempre bien aunque el lugar está un poco descuidado últimamente. No te dan individuales, etc. Entiendo qué hay que achicar costos, pero en estas cosas no."
+                },
+                {
+                    "IdReseña": 2,
+                    "NombreUsuario": "Diego Andres Etlis",
+                    "Valoracion": 2,
+                    "CantLikes": 1,
+                    "Descripcion": "No puede ser que desde que llegamos haya sido un mal trato. Fuimos 10 personas, pedimos exactamente como nos pidieron y aun asi no nos trajeron bien los pedidos. El mesero ha sido un completo despistado y al final de todo nos falto uno de los pedidos, muy linda la estructura y exquisita la comida pero la verdad ha sido un pésimo servicio."
+                },
+                {
+                    "IdReseña": 3,
+                    "NombreUsuario": "Ale Tulissi",
+                    "Valoracion": 5,
+                    "CantLikes": 3,
+                    "Descripcion": "Muy buen lugar y al atención, la limpieza del salón y del baño de caballeros muy buena. Gran variedad de panqueques y con muy buen sabor. Éramos 3 y pedimos 2 liquados y un café 'carlitos', los liquados ricos y grandes, el café muy rico."
+                }
+            ]
+        },
+        {
+            "IdRestaurante": 2,
+            "Reseñas": [
+                {
+                    "IdReseña": 4,
+                    "NombreUsuario": "Rafael Temporini",
+                    "Valoracion": 4,
+                    "CantLikes": 22,
+                    "Descripcion": "Hermosa confitería con variadas opciones para merendar. Suele estar muy concurrida por lo que hay que hacer cola. Pedimos el María Callas y estaba todo rico. Para destacar el té en hebras y como punto negativo algunos sanguches de miga y el pan dulce estaban un poco secos. La atención es un poco tosca. Baños limpios."
+                },
+                {
+                    "IdReseña": 5,
+                    "NombreUsuario": "Alicia Machello",
+                    "Valoracion": 5,
+                    "CantLikes": 3,
+                    "Descripcion": "El lugar es histórico y está excelente mantenido. Bello para los.que amamos.esos.detalles arquitectónicos que hacen la diferencia. La atención de quien nos tocó en suerte, Ricardo, 11 trabajando ahí!!, muy buena. La pastelería, he probado mejores, pero el lugar justifica el.no dejar de visitarlo!!!!"
+                },
+                {
+                    "IdReseña": 6,
+                    "NombreUsuario": "Federico T",
+                    "Valoracion": 3,
+                    "CantLikes": 2,
+                    "Descripcion": "Pedimos este tipo de merienda. Un poco costoso. No podes elegir porciones de torta. La torta de chocolate buena, pero hubiese sido mejor que tenga algo crocante esa torta (no baja la calificación)."
+                }
+            ]
+        },
+        {
+            "IdRestaurante": 3,
+            "Reseña-1": {
+                "IdReseña": 7,
+                "NombreUsuario": "Lucas Sapoval",
+                "Valoracion": 2,
+                "CantLikes": 1,
+                "Descripcion": "Se que es una braseria de años de trayectoria pero lamentablemente mi 1° experiencia deja mucho que desear. El pollo estaba cristalizado, pasado de dorado, generalmente pasa cuando esta muy recalentado. Las papas abundantes pero eran como las sobras, ningún bastón completo y recalentadas. Realmente muy mala experiencia. Se veía mucho surtido de empanadas y en cantidad (osea que tiene que vender bien) Difícilmente vuelva."
+            },
+            "Reseña-2": {
+                "IdReseña": 8,
+                "NombreUsuario": "Norma Di Lelle",
+                "Valoracion": 5,
+                "CantLikes": 1,
+                "Descripcion": "muy buena atención, precio normal"
+            },
+            "Reseña-3": {
+                "IdReseña": 9,
+                "NombreUsuario": "gustavo allende",
+                "Valoracion": 5,
+                "CantLikes": 0,
+                "Descripcion": "Muy buena atención y comida"
+            }
+        },
+        {
+            "IdRestaurante": 4,
+            "Reseña1": {
+                "IdReseña": 10,
+                "NombreUsuario": "Pablo R.",
+                "Valoracion": 5,
+                "CantLikes": 10,
+                "Descripcion": "Un lugar con estilo, las Ribs con papas rellenas son exquisitas y abundante, la ensalada César es lo mejor tiene un sabor especial, el pan de cortesía acompañada de salsa de garbanzos muy bueno. La atención de los mozos es excelente, en definitiva un lugar recomendable al 100% me encanta"
+            },
+            "Reseña2": {
+                "IdReseña": 11,
+                "NombreUsuario": "Eli Dos Santos",
+                "Valoracion": 4,
+                "CantLikes": 0,
+                "Descripcion": "Buena ambientación, platos clásicos y deliciosos, carta de tragos amplía, aunque como sugerencia estaría bien que detallen los ingredientes de cada trago, para poder elegir mejor."
+            },
+            "Reseña3": {
+                "IdReseña": 12,
+                "NombreUsuario": "Floor Moncayo",
+                "Valoracion": 1,
+                "CantLikes": 1,
+                "Descripcion": "Cayó muchísimo el nivel! Los platos malísimos, se negaron a cambiarme un plato de salmon que estaba en mal estado, cuando le dije al mozo, el encontró una basura en el plato que yo no había visto. Me discutía que era eneldo el cara dura. Y era un claro pedazo de plástico. Una vergüenza. No vuelvo mas."
+            }
+        },
+        {
+            "IdRestaurante": 5,
+            "Reseña-1": {
+                "IdReseña": 13,
+                "NombreUsuario": "nfguillen",
+                "Valoracion": 4,
+                "CantLikes": 1,
+                "Descripcion": "Si se busca comer con un precio económico esta pizza es muy recomendable. Tuvimos una muy buena atención! EXCELENTE RELACION CALIDAD PRECIO"
+            },
+            "Reseña-2": {
+                "IdReseña": 14,
+                "NombreUsuario": "Nico D",
+                "Valoracion": 3,
+                "CantLikes": 4,
+                "Descripcion": "Baja calidad: Alguna ves me toco comer alguna pizza de este lugar que estaba buena,pero alguna ves me toco comer una pizza que a la primera porcion la tire a la basura sin importar que el pizzero me este mirando,no es su culpa cocinar com esos productos como queso,harina,aceite etc de mala calidad..luego me compre una mitad para volver a probar y estaba re buena y me qede con hambre jaja..aveces es buena y aveces es fea creo qe ya todos lo sabemos"
+            },
+            "Reseña-3": {
+                "IdReseña": 15,
+                "NombreUsuario": "Suryy YT",
+                "Valoracion": 5,
+                "CantLikes": 1,
+                "Descripcion": "Buena! Es bastante rica y muy barata, recomendado"
+            }
+        }
+    ]
+}

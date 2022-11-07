@@ -1,0 +1,117 @@
+{
+    "Restaurantes": [
+        {
+            "ID": 1,
+            "Nombre": "Lo de Carlitos",
+            "Año-de-Apertura": "23/10/1963",
+            "Ubicacion": {
+                "Latitud": -37.2591149,
+                "Longitud": -56.97153419
+            },
+            "Dueños": [
+                "Carlos Ciuffardi"
+            ],
+            "Logo": "FotoCarlitos.jpg",
+            "Reseñas": [
+                {
+                    "IdReseña": 1,
+                    "NombreUsuario": "Diego Martinoli",
+                    "Valoracion": 4,
+                    "CantLikes": 1,
+                    "Descripcion": "Buena experiencia. Agregaría tarjeta de crédito. La comida siempre bien aunque el lugar está un poco descuidado últimamente. No te dan individuales, etc. Entiendo qué hay que achicar costos, pero en estas cosas no."
+                },
+                {
+                    "IdReseña": 2,
+                    "NombreUsuario": "Diego Andres Etlis",
+                    "Valoracion": 2,
+                    "CantLikes": 1,
+                    "Descripcion": "No puede ser que desde que llegamos haya sido un mal trato. Fuimos 10 personas, pedimos exactamente como nos pidieron y aun asi no nos trajeron bien los pedidos. El mesero ha sido un completo despistado y al final de todo nos falto uno de los pedidos, muy linda la estructura y exquisita la comida pero la verdad ha sido un pésimo servicio."
+                },
+                {
+                    "IdReseña": 3,
+                    "NombreUsuario": "Ale Tulissi",
+                    "Valoracion": 5,
+                    "CantLikes": 3,
+                    "Descripcion": "Muy buen lugar y al atención, la limpieza del salón y del baño de caballeros muy buena. Gran variedad de panqueques y con muy buen sabor. Éramos 3 y pedimos 2 liquados y un café 'carlitos', los liquados ricos y grandes, el café muy rico."
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "Nombre": "Las Violetas",
+            "Año-de-Apertura": "21/9/1884",
+            "Ubicacion": {
+                "Latitud": -34.611167,
+                "Longitud": -58.420861
+            },
+            "Dueños": [
+                "Felman",
+                "Rodríguez Acal"
+            ],
+            "Logo": "FotoVioletas.jpg"
+        },
+        {
+            "ID": 3,
+            "Nombre": "Rodizio",
+            "Año-de-Apertura": "10/10/1960",
+            "Ubicacion": {
+                "Latitud": -34.6072054,
+                "Longitud": -58.3664792
+            },
+            "Dueños": [
+                "Grupo Golden Center"
+            ],
+            "Logo": "FotoRodizio.jpg",
+            "Reseñas": [
+                {
+                    "IdReseña": 4,
+                    "NombreUsuario": "Rafael Temporini",
+                    "Valoracion": 4,
+                    "CantLikes": 22,
+                    "Descripcion": "Hermosa confitería con variadas opciones para merendar. Suele estar muy concurrida por lo que hay que hacer cola. Pedimos el María Callas y estaba todo rico. Para destacar el té en hebras y como punto negativo algunos sanguches de miga y el pan dulce estaban un poco secos. La atención es un poco tosca. Baños limpios."
+                },
+                {
+                    "IdReseña": 5,
+                    "NombreUsuario": "Alicia Machello",
+                    "Valoracion": 5,
+                    "CantLikes": 3,
+                    "Descripcion": "El lugar es histórico y está excelente mantenido. Bello para los.que amamos.esos.detalles arquitectónicos que hacen la diferencia. La atención de quien nos tocó en suerte, Ricardo, 11 trabajando ahí!!, muy buena. La pastelería, he probado mejores, pero el lugar justifica el.no dejar de visitarlo!!!!"
+                },
+                {
+                    "IdReseña": 6,
+                    "NombreUsuario": "Federico T",
+                    "Valoracion": 3,
+                    "CantLikes": 2,
+                    "Descripcion": "Pedimos este tipo de merienda. Un poco costoso. No podes elegir porciones de torta. La torta de chocolate buena, pero hubiese sido mejor que tenga algo crocante esa torta (no baja la calificación)."
+                }
+            ]
+        },
+        {
+            "ID": 4,
+            "Nombre": "Kansas",
+            "Año-de-Apertura": "4/6/1999",
+            "Ubicacion": {
+                "Latitud": -34.564504,
+                "Longitud": -58.432237
+            },
+            "Dueños": [
+                "Hugo Conzi",
+                "Horacio Conzi"
+            ],
+            "Logo": "FotoKansas.jpg"
+        },
+        {
+            "ID": 5,
+            "Nombre": "Ugi's",
+            "Año-de-Apertura": "8/8/1980",
+            "Ubicacion": {
+                "Latitud": -34.590610,
+                "Longitud": -58.434574
+            },
+            "Dueños": [
+                "Hugo Solís"
+            ],
+            "Logo": "FotoUgis.jpg"
+        }
+    ]
+}
